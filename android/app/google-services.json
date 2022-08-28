@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703352833139",
+    "project_id": "flutterfireauthproject",
+    "storage_bucket": "flutterfireauthproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703352833139:android:f08df53659a0344df45606",
+        "android_client_info": {
+          "package_name": "com.example.flutterfire_ui_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703352833139-upuac8pcr1h7v3830j39metlt6cpudqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGzb1bsGjcZp8WYyTmlF70fl3-t3PhN5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703352833139-upuac8pcr1h7v3830j39metlt6cpudqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
